@@ -1,0 +1,1 @@
+This is our summer project for setting up a CTF platform.
